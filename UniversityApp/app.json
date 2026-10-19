@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SuperiorUniversityApp",
-    "slug": "SuperiorUniversityApp",
+    "name": "universityapp",
+    "slug": "universityapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
